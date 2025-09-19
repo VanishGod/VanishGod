@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Lian Pérez! 
 
-<!--
-**VanishGod/VanishGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Also known online as **VanishGod**
+### 📍 Based in Havana, Cuba
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer currently specializing in the **M.E.R.N stack**, though I love learning new technologies and expanding my skill set! 💡
+
+---
+
+## 🛠️ **My Current Tech Stack**
+
+- ⚡ **Next.JS**
+- ⚛️ **React** 
+- 🔷 **TypeScript**
+- 🎨 **Tailwind CSS**
+
+---
+
+## 🌎 **Languages**
+
+- 🇪🇸 **Spanish** (Native)
+- 🇺🇸 **English** (B2 - Upper Intermediate)
+
+---
+
+## 🎯 **Career Goal**
+
+To secure a **FullStack Developer position** where I can contribute to innovative projects and continue growing professionally! 🚀
+
+---
+
+## 📫 **Let's Connect!**
+
+I'm always open to new opportunities and collaborations. Feel free to reach out! 👇
+
+[![GitHub](https://img.shields.io/badge/GitHub-VanishGod-181717?style=for-the-badge&logo=github)](https://github.com/VanishGod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lian_Pérez-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lianperez)
+
+---
+
+> *"Code is poetry, and I'm here to write the next masterpiece!"* ✨
